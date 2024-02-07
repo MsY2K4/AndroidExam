@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string-array name="crypto_names">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Ripple</item>
+        <item>litecoin</item>
+    </string-array>
+</resources>
